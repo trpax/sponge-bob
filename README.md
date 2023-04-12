@@ -1,7 +1,7 @@
 # Hi, Im Mykyta
 ### Target:
 *   Get a position in the IT industry using your skills in C++, HTML and CSS, and learn and grow within the company.
-## Skills
+## Skills:
 *   Ability to write console programs in C++
 *   Take a course in HTML and CSS
 *   Understanding and optimizing code
