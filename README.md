@@ -8,7 +8,7 @@
 
 ### Education:
 
-*   State University of Telecommunications, 1st year student.
+*   <a href="http://foreign.dut.edu.ua/" target="_blank">State University of Telecommunications </a>, 1st year student.
 <p align='center'>
    <a href="https://www.linkedin.com/in/mykyta-lieshchenko-046a26271">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
