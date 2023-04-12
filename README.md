@@ -1,5 +1,5 @@
 # Hi, I`m Mykyta
-<p Target:
+Target:
  Get a position in the IT industry using your skills in C++, HTML and CSS, and learn and grow within the company.
  Skills:
  Ability to write console programs in C++
@@ -12,4 +12,4 @@ Created personal projects such as web and console applications using C++ and HTM
 Collaborated with other students in group projects to develop software solutions.
 Education:
 State University of Telecommunications, 1st year student.
-This text has not yet been written by a neural network p>  
+This text has not yet been written by a neural network 
